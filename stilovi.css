@@ -1,0 +1,45 @@
+nav{
+    float: left;
+    width: 20%;
+    background-color: lightblue;
+}
+nav ul{
+    list-style-type: none;
+    padding: 10px;
+    margin: 0px;
+}
+nav li{
+    padding: 5px;
+}
+nav li:hover{
+    background-color: lightblue;
+}
+nav li a{
+    padding: 10px;
+    color: black;
+    text-decoration: none;
+}
+body{
+    background-color: lightgoldenrodyellow;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+h1{
+    background-image: url("slike/brand_billieeilish.jpg");
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    text-align: center;
+    color: black;
+}
+h2{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+pre{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.filmografija{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.centar{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}

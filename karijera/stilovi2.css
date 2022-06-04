@@ -1,0 +1,17 @@
+body{
+    background-color: lightgoldenrodyellow;
+}
+.paragrafi{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+h1{
+    background-image: url(../slike/1005869.png);
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    text-align: center;
+    text-decoration: underline;
+}
+.centar{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
